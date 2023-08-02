@@ -195,5 +195,3 @@ export default function InputShots() {
     </div>
   );
 }
-
-// const dt = [{ name: "a", age :1 }, { name: "b", age: 1 }];
