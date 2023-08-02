@@ -1,0 +1,3 @@
+clone this project 
+run "yarn" to install all packages 
+run "yarn run dev" to run the project 
